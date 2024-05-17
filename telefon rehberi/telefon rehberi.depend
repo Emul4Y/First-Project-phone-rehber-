@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1715774584 source:c:\users\emre yasin kocaman\desktop\telefon rehberi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"header.h"
+	"menu.h"
+	"phoneadd.h"
+	"phonelist.h"
+	"phonesearch.h"
+
+1715763357 c:\users\emre yasin kocaman\desktop\telefon rehberi\header.h
+
+1715763404 c:\users\emre yasin kocaman\desktop\telefon rehberi\menu.h
+
+1715764817 c:\users\emre yasin kocaman\desktop\telefon rehberi\phoneadd.h
+
+1715799093 c:\users\emre yasin kocaman\desktop\telefon rehberi\phonelist.h
+
+1715767517 c:\users\emre yasin kocaman\desktop\telefon rehberi\phonesearch.h
+
